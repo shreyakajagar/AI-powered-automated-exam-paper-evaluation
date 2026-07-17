@@ -1,20 +1,67 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI-Powered Automated Exam Paper Evaluation System
 
-# Run and deploy your AI Studio app
+## 📌 Project Overview
+The AI-Powered Automated Exam Paper Evaluation System is a smart web application that automatically evaluates handwritten and typed answer sheets using Artificial Intelligence. It uses OCR (Optical Character Recognition), Natural Language Processing (NLP), and Machine Learning to compare student answers with model answers and generate accurate marks and feedback.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+- Automated answer evaluation
+- OCR for handwritten text recognition
+- NLP-based semantic similarity
+- AI-generated marks and feedback
+- User-friendly interface
+- Fast and accurate evaluation
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## 🛠️ Technologies Used
+- TypeScript
+- HTML
+- CSS
+- React
+- Google AI Studio (Gemini API)
+- OCR
+- Natural Language Processing (NLP)
+- Machine Learning
 
-## Run Locally
+## 📂 Project Structure
+- Frontend
+- AI Evaluation Module
+- OCR Processing
+- Answer Comparison
+- Feedback Generation
 
-**Prerequisites:**  Node.js
+## 💻 Installation
 
+1. Clone the repository
+```bash
+git clone https://github.com/shreyakajagar/AI-powered-automated-exam-paper-evaluation.git
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Add your Gemini API Key in `.env.local`
+
+4. Run the project
+```bash
+npm run dev
+```
+
+## 📸 Screenshots
+(Add your project screenshots here)
+
+## 🎯 Future Scope
+- Multi-language support
+- Voice-based answer evaluation
+- Detailed performance analytics
+- Cloud deployment
+
+## 👩‍💻 Author
+
+**Shreya Kajagar**
+
+GitHub: https://github.com/shreyakajagar
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
